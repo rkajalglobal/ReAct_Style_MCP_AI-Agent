@@ -1,0 +1,12 @@
+langchain
+langchain-openai
+langchain-anthropic
+langchain-mcp-adapters
+langgraph
+mcp
+httpx
+python-dotenv
+langchain-google-community 
+google-auth-oauthlib
+google-api-python-client 
+google-auth-httplib2
